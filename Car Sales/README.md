@@ -1,6 +1,6 @@
 # Car-Dealership-Dashboard-PowerBI
 
-![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/Car%20Sales/Car%20Sales%20Dashboard.png)
+![image]([https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/Car%20Sales/Car%20Sales%20Dashboard.png](https://github.com/nkosanamolefe/data-visualization/blob/539e72a2e337dd591dcf0b7f05a303f10adc28ff/Car%20Sales/Car%20Sales%20Dashboard.png))
 
 ## Analysis Goal
 
