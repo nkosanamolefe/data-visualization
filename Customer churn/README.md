@@ -1,13 +1,14 @@
-# Customer Churn Analysis in Power BI
+# Analyzing Customer Churn in Power BI
 
 ## Analysis Goal
 
- Analyze customer churn data to understand why customers are leaving and identify strategies to reduce churn rates for Databel, a telecom company.
+Analyze customer churn data to understand why customers are leaving and identify strategies to reduce churn rates for Databel, a fictitious Telecom company.
 
-## Tools
+## Data check
+Created two measure (# of Customers and # of Unique Customers) to check if the count of customer Ids is equal to the count of unique customer Ids. To prevent double-counting cost, incase ther are dublicate rows. 
 
-**Power BI** - DAX
+## Exploratory Analysis
 
-## Questions/ Objective
+## Questions / Objective
 
 ## Summary of Findings
