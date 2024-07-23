@@ -1,5 +1,7 @@
 # Analyzing Customer Churn in Power BI
 
+![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/HR/HR%20Dashboard.png)
+
 ## Analysis Goal
 
 Analyze customer churn data to understand why customers are leaving and identify strategies to reduce churn rates for Databel, a fictitious Telecom company.
