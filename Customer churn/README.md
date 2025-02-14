@@ -1,6 +1,6 @@
 # Analyzing Customer Churn in Power BI
 
-![image](https://github.com/nkosanamolefe/data-visualization/blob/main/Customer%20churn/dashboard.png)
+![image](dashboard.png)
 
 ## Analysis Goal
 
