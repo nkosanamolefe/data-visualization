@@ -1,4 +1,4 @@
-# Analyzing Customer Churn in Power BI
+# Analyzing Customer Churn
 
 ![image](dashboard.png)
 
